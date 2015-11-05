@@ -1,0 +1,59 @@
+==================================================
+file name: pdom-scaffolds-unmasked-r1.2.fa
+sequences:          1483
+total length:  208026220 bp  (200616127 bp excl N/X-runs)
+GC level:         30.77 %
+bases masked:   28044608 bp ( 13.48 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements        19896      2658552 bp    1.28 %
+   SINEs:               13          995 bp    0.00 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:             8058      1085064 bp    0.52 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex       3050       201994 bp    0.10 %
+     R1/LOA/Jockey    4014       456424 bp    0.22 %
+     R2/R4/NeSL        128        67864 bp    0.03 %
+     RTE/Bov-B         803       355639 bp    0.17 %
+     L1/CIN4            45         2226 bp    0.00 %
+   LTR elements:     11825      1572493 bp    0.76 %
+     BEL/Pao           931       238833 bp    0.11 %
+     Ty1/Copia        1463       322223 bp    0.15 %
+     Gypsy/DIRS1      9228       998231 bp    0.48 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons      11805      1589739 bp    0.76 %
+   hobo-Activator      633        44528 bp    0.02 %
+   Tc1-IS630-Pogo     2895       719530 bp    0.35 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac           1047       184163 bp    0.09 %
+   Tourist/Harbinger     9          497 bp    0.00 %
+   Other (Mirage,      497        28015 bp    0.01 %
+    P-element, Transib)
+
+Rolling-circles          0            0 bp    0.00 %
+
+Unclassified:         3154       333253 bp    0.16 %
+
+Total interspersed repeats:     4581544 bp    2.20 %
+
+
+Small RNA:             134        18139 bp    0.01 %
+
+Satellites:             19         2941 bp    0.00 %
+Simple repeats:     411040     18745108 bp    9.01 %
+Low complexity:      84402      4794894 bp    2.30 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be hexapoda      
+RepeatMasker version open-4.0.5 , default mode
+                                   
+run with rmblastn version 2.2.27+
+RepBase Update 20140131, RM database version 20140131
