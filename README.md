@@ -1,6 +1,6 @@
 # Repeat masking
 
-This data set is part of the [*Polistes dominula* genome project][pdomproj], and provides details regarding the annotation and masking of transposable elements and other repetitive sequences in the *P. dominula* genome, as described in (Standage *et al.*, manuscript in preparation).
+This data set is part of the [*Polistes dominula* genome project][pdomproj], and provides details regarding the annotation and masking of transposable elements and other repetitive sequences in the *P. dominula* genome, as described in ([Standage *et al.*, *Molecular Ecology*, 2016][ref]).
 Included in this data set are the repeat annotations, the masked genome sequence, and documentation providing complete disclosure of the masking procedure.
 
 ## Synopsis
@@ -102,6 +102,7 @@ mask.pl pdom.repeats.19.50.gff3 \
 This work is licensed under a [Creative Commons Attribution 4.0 International License][ccby4].
 
 [pdomproj]: https://github.com/PdomGenomeProject
+[ref]: http://dx.doi.org/10.1111/mec.13578
 [RepeatMasker]: http://www.repeatmasker.org/
 [open-4.0.5]: http://www.repeatmasker.org/RepeatMasker-open-4-0-5.tar.gz
 [Repbase]: http://www.girinst.org/server/RepBase/index.php
